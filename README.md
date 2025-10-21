@@ -1,6 +1,6 @@
 <h1>Hi, I'm Luis! 
 
-<h2>👨‍💻 System Admin & Cybersecurity Projects:</h2>
+<h2>👨‍💻 IT Projects:</h2>
 
 - [Rasberry Pi ADDC Home Lab](https://github.com/aguirluis/RaspberryADDC/tree/main)
 - [ProxMox Home Lab Setup](https://github.com/aguirluis/ActiveDirectoryLab)
