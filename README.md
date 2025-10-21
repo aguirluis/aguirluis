@@ -4,9 +4,15 @@
 
 - Rasberry Pi DC
 - Active Directory Home Lab
-- 
 
-<h2> 📄 Certifications 
+<h2>📄 Certifications</h2>
+
+- AZ-900
+- CompTia Security+
+- CompTia A+
+
+
+
 
 
 <h2>📺 Popular YouTube Videos</h2>
