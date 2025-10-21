@@ -3,7 +3,7 @@
 <h2>👨‍💻 System Admin & Cybersecurity Projects:</h2>
 
 - Rasberry Pi DC
-- [Active Directory Home Lab] (https://github.com/aguirluis/ActiveDirectoryLab).
+- [Active Directory Home Lab](https://github.com/aguirluis/ActiveDirectoryLab).
 
 <h2>📄 Certifications</h2>
 
