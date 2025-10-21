@@ -2,10 +2,12 @@
 
 <h2>👨‍💻 System Admin & Cybersecurity Projects:</h2>
 
-- [Rasberry Pi ADDC](https://github.com/aguirluis/RaspberryADDC/tree/main)
-- [Active Directory Home Lab](https://github.com/aguirluis/ActiveDirectoryLab).
-- [Network Vlans Setup](https://github.com/aguirluis/ActiveDirectoryLab).
-
+- [Rasberry Pi ADDC Home Lab](https://github.com/aguirluis/RaspberryADDC/tree/main)
+- [ProxMox Home Lab Setup](https://github.com/aguirluis/ActiveDirectoryLab)
+- [Active Directory Home Lab](https://github.com/aguirluis/ActiveDirectoryLab)
+- [Network Vlans Setup](https://github.com/aguirluis/ActiveDirectoryLab)
+- [Corporate Windows System Deployment](https://github.com/aguirluis/ActiveDirectoryLab).
+  
 <h2>📄 Certifications</h2>
 
 - AZ-900
