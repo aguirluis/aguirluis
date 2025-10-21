@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 System Admin & Cybersecurity Projects:</h2>
 
-- [Rasberry Pi DC](https://github.com/aguirluis/RaspberryADDC/tree/main)
+- [Rasberry Pi ADDC](https://github.com/aguirluis/RaspberryADDC/tree/main)
 - [Active Directory Home Lab](https://github.com/aguirluis/ActiveDirectoryLab).
+- [Network Vlans Setup](https://github.com/aguirluis/ActiveDirectoryLab).
 
 <h2>📄 Certifications</h2>
 
