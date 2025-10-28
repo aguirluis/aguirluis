@@ -29,7 +29,7 @@
 
 
 [<img align="left" alt="aguirluis | LinkedIn" width="22px" src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png" />][linkedin]
-<a href="mailto:yourname@gmail.com">
+<a href="mailto:aguirluis@gmail.com">
   <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail Icon" width="22">
 </a>
 
