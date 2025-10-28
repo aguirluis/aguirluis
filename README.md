@@ -13,7 +13,7 @@
 - AZ-900
 - CompTia Security+
 - CompTia A+
-
+- next on my list AZ-1400 ,  CompTia Linux +
 
 
 
