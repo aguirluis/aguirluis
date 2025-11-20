@@ -8,7 +8,7 @@
 
 <b>Linux</b>
 - [ProxMox Home Lab Setup](https://github.com/aguirluis/Proxmox-Home-Lab)
-- [Rasberry Pi ADDC Home Lab](https://aguirluis.github.io/theoldtek/dietpi.html)
+- [Rasberry Pi ADDC Home Lab](https://github.com/aguirluis/RaspberryADDC)
 
   
 <h2>📄 Certifications</h2>
