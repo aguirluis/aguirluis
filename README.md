@@ -2,8 +2,10 @@
 <h2>System Administrator, Cybersecurity Projects, Home Automation </h2>
 
 <h2>👨‍💻 IT Projects:</h2>
+
 <b>Windows</b>
 - [Active Directory Home Lab](https://aguirluis.github.io/theoldtek/ADDCLab.html)
+
 <b>Linux</b>
 - [ProxMox Home Lab Setup](https://aguirluis.github.io/theoldtek/proxmox.html)
 - [Rasberry Pi ADDC Home Lab](https://aguirluis.github.io/theoldtek/dietpi.html)
