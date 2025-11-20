@@ -1,5 +1,5 @@
 <h1>Hi, I'm Luis! 
-<h2>System Administrator / Cybersecurity Projects </h2>
+<h2>System Administrator, Cybersecurity Projects, Home Automation </h2>
 
 <h2>👨‍💻 IT Projects:</h2>
 
